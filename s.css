@@ -1,0 +1,9 @@
+*{
+    background-color: aqua;
+    color: beige;
+}
+.text{
+    background-color: bisque;
+    color: aqua;
+    text-transform: uppercase;
+}

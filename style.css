@@ -1,0 +1,12 @@
+*{
+    background-color: aqua;
+    color: red;
+    font-size: 40;
+    background-image: url("message.gif");
+
+
+}
+ul{
+   background-color: aliceblue;
+    list-style-type:none ;
+}
